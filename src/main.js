@@ -3,7 +3,7 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import App from './App.vue'
 import router from './router'
-import './assets/commom.css'
+import './assets/commom.less'
 import VueRouter from 'vue-router'
 import axios from 'axios'
 import moment from 'moment'

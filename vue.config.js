@@ -1,6 +1,5 @@
 module.exports = {
-  assetsDir: 'resource',
-  publicPath: '',
+  assetsDir: 'static',
   devServer: {
     proxy: 'http://192.168.5.4:8000'
   }

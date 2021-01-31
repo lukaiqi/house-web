@@ -16,7 +16,7 @@
       background
       layout="prev, pager, next"
       :total="count"
-      :page-size="15"
+      :page-size="20"
       @current-change="changepage"
     ></el-pagination>
   </div>
